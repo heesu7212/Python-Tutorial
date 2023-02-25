@@ -3,6 +3,8 @@ vat_rate = 0.1
 vat = price * vat_rate
 print(vat)
 
+#example
+
 print('hi, egoing .... bye, egoing.')
 
 name = 'sori'
